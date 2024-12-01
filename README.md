@@ -2,8 +2,8 @@
 
 ## Brief Self-Introduction
 
-- 🔭 I’m currently working on 3D Generation and Diffusion Models.
-- 🌱 I’m currently learning algorithms of 3D and Generation Models' Controlling.
+- 🔭 I’m currently working on 3D Generation and Stylization.
+- 🌱 I’m currently learning algorithms of 3D, Diffusion models and LLMs.
 - 👯 I’m looking to collaborate on people who are interested in CV &. CG.
 - 📫 How to reach me: snight_killers@outlook.com
 
