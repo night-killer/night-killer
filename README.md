@@ -7,12 +7,6 @@
 - 👯 I’m looking to collaborate on people who are interested in CV &. CG.
 - 📫 How to reach me: snight_killers@outlook.com
 
-## Small Tools Made by Me
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=night-killer&repo=pyAzureSpeech)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=night-killer&repo=HMM_pinyin)
-
 <!--
 **night-killer/night-killer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
