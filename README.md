@@ -2,10 +2,11 @@
 
 ## Brief Self-Introduction
 
+- 😄 I’m Zixiao Gu, now a 3-rd master in Fudan University.
 - 🔭 I’m currently working on 3D Generation and World Models.
 - 🌱 I’m currently learning algorithms of 3D, Diffusion models and LLMs.
-- 👯 I’m looking to collaborate on people who are interested in CV &. CG.
-- 📫 How to reach me: snightkillers@gmail.com
+- 💬 You can find my publications [here](https://scholar.google.com/citations?user=bcCl4G8AAAAJ&hl=zh-CN).
+- 📫 How to reach me: [snightkillers@gmail.com](mailto:snightkillers@gmail.com).
 
 <!--
 **night-killer/night-killer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
