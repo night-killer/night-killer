@@ -2,7 +2,7 @@
 
 ## Brief Self-Introduction
 
-- 😄 I’m Zixiao Gu, now a 3-rd master in Fudan University.
+- 😄 I’m Zixiao Gu, now a 3rd MS student at Fudan University.
 - 🔭 I’m currently working on 3D Generation and World Models.
 - 🌱 I’m currently learning algorithms of 3D, Diffusion models and LLMs.
 - 💬 You can find my publications [here](https://scholar.google.com/citations?user=bcCl4G8AAAAJ&hl=zh-CN).
