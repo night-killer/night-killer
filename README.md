@@ -2,7 +2,8 @@
 
 ## Brief Self-Introduction
 
-- 😄 I’m Zixiao Gu, now a 3rd M.Phil student at Fudan University.
+- 😄 I’m Zixiao Gu, now a 1st Ph.D student at Shanghai Jiao Tong University and Shanghai Innovation Institution.
+- 🌱 Previously, I obtained my M.Phil at Fudan University and B.Eng at Xiamen University.
 - 🔭 I’m currently working on Video Generation and World Models.
 - 💬 You can find my publications [here](https://scholar.google.com/citations?user=bcCl4G8AAAAJ&hl=zh-CN).
 - 📫 How to reach me: [snightkillers@gmail.com](mailto:snightkillers@gmail.com).
